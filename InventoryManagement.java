@@ -6,7 +6,9 @@ public class InventoryManagement{
     private
 
     public InventoryManagement{
+        System.out.println("INVENTORY MANAGEMENT"); 
         System.out.println("INVENTORY MANAGEMENT");     
+
     }
 
 
